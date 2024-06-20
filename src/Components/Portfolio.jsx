@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/sunflower.jpg";
 
-const imageAltText = "image of sunflowers";
+const imageAltText = "sunflowers";
 
 /**
  * Project list
@@ -31,7 +31,7 @@ const imageAltText = "image of sunflowers";
  */
 const projectList = [
   {
-    title: "My first Android App",
+    title: "My first App",
     description:
       "This app features a single activity for efficient GPA calculation, allowing users to select credit hours and grades.",
     url: "https://github.com/sarwataijaz/GPA-Calculator.git",
